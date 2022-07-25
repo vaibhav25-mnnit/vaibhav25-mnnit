@@ -8,8 +8,6 @@
 ⚡ In my free time, I edit vedios and read novels.\
 ✉️ You can reach out to me via email at bagatevaibhav555@gmail.com.
 
-
-
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -25,6 +23,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 
+
+<br/>
+<br/>
 
 ### ⚙️ GitHub Analytics
 <p align="center">
