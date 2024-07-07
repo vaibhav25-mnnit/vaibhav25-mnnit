@@ -2,10 +2,10 @@
 
 
 ### 👨🏻‍💻 About Me
-🎓 I'm a Information Technology Undergraduate at Motilal Nehru National Institute of Technology,Allahabad.\
-💡 Interested in working alongside like minded people enthusiastic about ReactJS, FullStack Development,or developing cutting edge tech.\
-🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms and love to solve problem's using the same.\
-⚡ In my free time, I edit vedios and read novels.\
+🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad.\
+💡 Interested in working with like-minded people enthusiastic about ReactJS, FullStack Development, or cutting-edge tech development.\
+🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms and love to solve problems using the same.\
+⚡ In my free time, I edit videos and read novels.\
 ✉️ You can reach out to me via email at bagatevaibhav555@gmail.com.
 
 ### 🛠 Languages and Tools
