@@ -38,5 +38,5 @@
 
 ### <img src="https://media.giphy.com/media/cHw1sFUAfZcZfcLjq9/giphy.gif" width="25px"> Want to Connect?
 <a href="https://www.linkedin.com/in/vaibhav-bagate/">
-<img align="left" alt="vaibhav's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="vaibhav's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
