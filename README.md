@@ -1,8 +1,9 @@
-### **Hey There, I'm Vaibhav Bagate** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There, I'm Vaibhav  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ### 👨🏻‍💻 About Me
-🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad.\
+💻 Currently, I am working as a software developer at Samsung Research and Development Delhi, India.\
+🎓 I'm a Graduate from Motilal Nehru National Institute of Technology, Allahabad, with a degree in Information Technology.\
 💡 Interested in working with like-minded people enthusiastic about ReactJS, FullStack Development, or cutting-edge tech development.\
 🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms and love to solve problems using the same.\
 ⚡ In my free time, I edit videos and read novels.\
